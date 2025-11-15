@@ -70,7 +70,7 @@ A **2-minute video** is included in the repository explaining:
 - Search functionality  
 - UI design choices  
 
-**File included:** `video.mp4`
+**File included:** https://drive.google.com/file/d/1O4wowHCArkdvx7-0DPTmpusgC7fjm2Qm/view?usp=sharing
 
 ---
 
